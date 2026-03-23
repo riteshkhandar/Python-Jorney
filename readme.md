@@ -9,7 +9,7 @@ and every problem I solve.
 - Lists — done
 - Strings — done
 - Dictionaries — done
-- Sets and Tuples — in progress
+- Sets and Tuples — solved 8 problems of set and tuples learned about set operation and methods 
 
 ## What's in this repo
 - Concept files — code I wrote while learning each topic
